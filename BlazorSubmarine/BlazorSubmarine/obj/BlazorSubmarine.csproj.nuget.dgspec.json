@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj": {}
+    "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\StartAgain\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj": {
+    "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\StartAgain\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj",
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\StartAgain\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj",
         "projectName": "BlazorSubmarine",
-        "projectPath": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\StartAgain\\submarine\\BlazorSubmarine\\BlazorSubmarine\\BlazorSubmarine.csproj",
         "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\submarine\\BlazorSubmarine\\BlazorSubmarine\\obj\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\StartAgain\\submarine\\BlazorSubmarine\\BlazorSubmarine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
